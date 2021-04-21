@@ -1,5 +1,5 @@
 {
-  "name": "git-b",
+  "name": "git-c",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/WeiLin18/git-exercise/issues"
   },
-  "homepage": "https://github.com/WeiLin18/git-exercise#readme"
+  "homepage": "https://github.com/WeiLin18/git-exercise#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "jQuery": "^1.7.4"
+  }
 }
